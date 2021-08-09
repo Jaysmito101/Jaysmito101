@@ -2,6 +2,8 @@
 - 👀 I’m interested in making Game Engines and Artificial Intelligence!
 - 📫 Contact me by email : jaysmito101@gmail.com
 
+<a href="https://stackexchange.com/users/19941048"><img src="https://stackexchange.com/users/flair/19941048.png" width="208" height="58" alt="profile for Jaysmito Mukherjee on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Jaysmito Mukherjee on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
