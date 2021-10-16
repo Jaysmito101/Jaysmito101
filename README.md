@@ -4,6 +4,7 @@
 
 ![Jaysmito GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaysmito101)
 
+![](https://komarev.com/ghpvc/?username=Jaysmito101&style=flat-square)
 
 
 <a href="https://stackexchange.com/users/19941048"><img src="https://stackexchange.com/users/flair/19941048.png" width="208" height="58" alt="profile for Jaysmito Mukherjee on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Jaysmito Mukherjee on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
