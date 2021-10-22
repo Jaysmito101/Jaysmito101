@@ -6,16 +6,19 @@
 </p>
 
 <br>
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img  src="https://github-readme-stats.vercel.app/api?username=Jaysmito101&theme=radical&show_icons=true&hide_border=true"/>
-  </a>
-</p>
 
+<p align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=Jaysmito101&theme=radical&show_icons=true&hide_border=true"/>
+</p>
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaysmito101&theme=radical&hide_border=true"/>
 </p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysmito101&theme=radical&hide_border=true"/>
+</p>
+
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCvVUCzb12l-3FM740TdD-Vw?sub_confirmation=1">
