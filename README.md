@@ -19,7 +19,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysmito101&theme=radical&hide_border=true"/>
 </p>
 <p align="center">
-<img src="https://agebadge.vercel.app/api/hello" />
+<img src="https://dynamic-badges.maxalpha.repl.co/age/12/08/2004" />
 </p>
 
 
